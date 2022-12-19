@@ -5,7 +5,7 @@
 
 :books:  Aprendendo um novo idioma 
 
-⚡ Gosto de ouvir música, corrida e  café.
+⚡ Gosto de ouvir música, corrida e café.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-gomes-8b3822232?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BUsvLMpywRVWJ18CiI2XmLA%3D%3D)
 
