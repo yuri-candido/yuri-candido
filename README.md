@@ -1,6 +1,12 @@
 
 ### Olá, eu sou o Yuri! 👋
 
+🌱 Atualmente estou consolidando meus conhecimentos em java, com o intuito de me especializar na área da qual possuo mais interesse, que é o BackEnd.
+
+:books:  Aprendendo um novo idioma 
+
+⚡ Gosto de ouvir música, corrida e  café.
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-gomes-8b3822232?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BUsvLMpywRVWJ18CiI2XmLA%3D%3D)
 
 ![Yuri GitHub stats](https://github-readme-stats.vercel.app/api?username=yuri-candido&show_icons=true&theme=dracula)
