@@ -1,7 +1,7 @@
 
 ### Olá, eu sou o Yuri! 👋
 
-🌱 Atualmente estou consolidando meus conhecimentos em java, com o intuito de me especializar na área da qual possuo mais interesse, que é o BackEnd.
+🌱 Atualmente estou consolidando meus conhecimentos em java e PHP, com o intuito de me especializar na área da qual possuo mais interesse, que é o back-end.
 
 :books:  Aprendendo um novo idioma 
 
