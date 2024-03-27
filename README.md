@@ -1,19 +1,20 @@
 
-### Olá, eu sou o Yuri! 👋
+### Welcome! 👋
 
-🌱 Atualmente estou consolidando meus conhecimentos em java e PHP, com o intuito de me especializar na área da qual possuo mais interesse, que é o back-end.
+🌱 I've been studied the java programming language, the framework Spring Boot and SQL language.
 
-:books:  Aprendendo um novo idioma 
+🌱 In the frontend development, I have knowledge in the following technologies: html, css and, mainly, JavaScript.
 
-⚡ Gosto de ouvir música, corrida e café.
+:books:  I'm learning a new idiom.
+
+⚡ I like listening to music, running and coffee.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-gomes-8b3822232?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BUsvLMpywRVWJ18CiI2XmLA%3D%3D)
 
-![Yuri GitHub stats](https://github-readme-stats.vercel.app/api?username=yuri-candido&show_icons=true&theme=dracula)
-
+![Yuri GitHub stats](https://github-readme-stats.vercel.app/api?username=yuri-candido&show_icons=true&theme=dracula)       
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-candido)](https://github.com/yuri-candido/github-readme-stats)
 
-## Tecnologias que utilizo
+## Technologies I use
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
